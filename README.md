@@ -1,5 +1,7 @@
 # text-search
 
+![preview](./public/preview.PNG)
+
 ## Project Setup
 
 ```sh
